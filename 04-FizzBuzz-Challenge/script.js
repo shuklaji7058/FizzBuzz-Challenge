@@ -1,4 +1,4 @@
-// For Loop
+// Using For Loop
 for (let i = 1; i <= 100; i++) {
   if (i % 15 === 0) {
     console.log('FizzBuzz');
@@ -11,7 +11,7 @@ for (let i = 1; i <= 100; i++) {
   }
 }
 
-// While Loop
+// Using While Loop
 let j = 1;
 
 while (j <= 100) {
